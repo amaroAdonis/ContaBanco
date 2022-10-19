@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5942ac9-a043-4890-a883-c788ad8ba11b" name="Changes" comment="Primeiro Commmit do projeto Desafio Banco Terminal">
-      <change afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
+    <list default="true" id="f5942ac9-a043-4890-a883-c788ad8ba11b" name="Changes" comment="Atualização do projeto. Falta finalizar a saída final.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContaTerminal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaTerminal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +34,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager">
@@ -76,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666120499275</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Atualização do projeto. Falta finalizar a saída final.">
+      <created>1666136190060</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666136190060</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +128,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primeiro Commmit do projeto Desafio Banco Terminal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primeiro Commmit do projeto Desafio Banco Terminal" />
+    <MESSAGE value="Atualização do projeto. Falta finalizar a saída final." />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualização do projeto. Falta finalizar a saída final." />
   </component>
 </project>
